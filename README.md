@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 I'm a skilled frontend developer with a strong focus on building modern, user-friendly applications using React and Vite. I have a passion for creating smooth, responsive designs and intuitive interfaces, and I enjoy refining the little details that make a product feel polished and engaging. From smart search functionalities to beautifully styled components, I like to balance functionality with aesthetics.<br><br>Right now, I'm diving deeper into React.js and Next.js, aiming to expand my toolkit and bring even more performance and scalability to the web experiences I build. Whether it’s a sleek UI or a fast-loading app, I’m always looking for ways to improve and evolve.
 
 
